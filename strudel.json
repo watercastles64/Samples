@@ -1,5 +1,4 @@
 {
-  "samples": {
-    "cm9": "https://github.com/watercastles64/Samples/cm7_a9_elpiano.mp3"
-  }
+  "_base": "https://raw.githubusercontent.com/watercastles64/samples/",
+  "pad": ["cm7_a9_elpiano.mp3"]
 }
